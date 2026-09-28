@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Equipment Inventory Backend",
+      "request": "launch",
+      "mainClass": "com.example.inventory.InventoryApplication",
+      "projectName": "inventory",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}

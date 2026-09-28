@@ -1,0 +1,11 @@
+target/
+.idea/
+.vscode/*
+!.vscode/launch.json
+*.iml
+.env
+application-local.properties
+application-secret.properties
+
+src/main/resources/application.properties
+src/main/resources/application-dev.properties
